@@ -1,4 +1,6 @@
-### Docker image for postgres database used in events-deploy project.  Adds users table populated with user details.
+### Extends docker image for postgres database used in events-deploy project.
+
+Adds users table populated with user details.
 
 Example usage:
 
